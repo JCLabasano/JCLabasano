@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Front End Developers...
 - 📫 How to reach me ...Email <-- in my bio
 
-#I'm an Information Technology First year student .I just started learning C++ for 5 months as my first programming language and i recently 
+#I'm a Information Technology First year student .I just started learning C++ for 5 months as my first programming language and i recently 
 started my journey in web development 
-currently working on HTML CSS and JavaSCript. i Hope some professionals outhere will give 
+currently working on HTML, CSS and JavaScript. i Hope some professionals outhere will give 
 me some useful tricks, tips and ideas in web development.
 
 <!---
