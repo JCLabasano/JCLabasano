@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate with other Developers...
 - 📫 How to reach me ...Email <-- in my bio
 
-#I'm a Information Technology First year student .I just started learning C++ for 5 months as my first programming language and I recently 
-started my journey in web development 
-currently taking my exercises everyday on HTML, CSS and JavaScript. i Hope some professionals out there will give 
-me some useful tricks, tips and ideas in web development.
-
+#As an Information Technology student, I engage in daily exercises focused on HTML, CSS, and JavaScript. My intention is to collaborate with fellow developers, allowing me to both share my knowledge and acquire valuable experience. I aspire to foster a collaborative environment that promotes mutual growth and learning.
 <!---
 JCLabasano/JCLabasano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
